@@ -1,0 +1,200 @@
+Feb 02, 2018 9:03:59 AM tester_project_F1 setup
+INFO: Program started
+Feb 02, 2018 9:05:13 AM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 02, 2018 9:05:16 AM tester_project_F1 setup
+INFO: Program started
+Feb 02, 2018 9:05:24 AM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 02, 2018 9:05:26 AM tester_project_F1 setup
+INFO: Program started
+Feb 02, 2018 9:05:29 AM LoginThread$3 run
+INFO: Software closed
+Feb 02, 2018 9:07:31 AM tester_project_F1 setup
+INFO: Program started
+Feb 02, 2018 9:07:34 AM LoginThread$3 run
+INFO: Software closed
+Feb 02, 2018 9:08:10 AM tester_project_F1 setup
+INFO: Program started
+Feb 02, 2018 9:08:14 AM LoginThread$3 run
+INFO: Software closed
+Feb 02, 2018 9:10:38 AM tester_project_F1 setup
+INFO: Program started
+Feb 02, 2018 9:11:00 AM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 02, 2018 9:11:05 AM tester_project_F1 setup
+INFO: Program started
+Feb 02, 2018 9:19:49 AM tester_project_F1 setup
+INFO: Program started
+Feb 02, 2018 9:19:59 AM LoginThread logout
+INFO: 
+User DMH logged off
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 02, 2018 9:20:02 AM LoginThread$3 run
+INFO: Software closed
+Feb 02, 2018 9:20:04 AM tester_project_F1 setup
+INFO: Program started
+Feb 02, 2018 9:20:11 AM LoginThread$3 run
+INFO: Software closed
+Feb 02, 2018 9:20:52 AM tester_project_F1 setup
+INFO: Program started
+Feb 02, 2018 9:21:02 AM LoginThread$3 run
+INFO: Software closed
+Feb 02, 2018 9:21:19 AM tester_project_F1 setup
+INFO: Program started
+Feb 02, 2018 9:21:32 AM LoginThread logout
+INFO: 
+User DMH logged off
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 02, 2018 9:22:39 AM tester_project_F1 setup
+INFO: Program started
+Feb 02, 2018 9:39:15 AM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 02, 2018 9:39:49 AM tester_project_F1 setup
+INFO: Program started
+Feb 02, 2018 9:40:00 AM LoginThread logout
+INFO: 
+User DMH logged off
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 02, 2018 9:40:15 AM tester_project_F1$3 run
+INFO: 
+User TCM closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 02, 2018 9:40:26 AM tester_project_F1 setup
+INFO: Program started
+Feb 02, 2018 9:40:28 AM LoginThread$3 run
+INFO: Software closed
+Feb 02, 2018 9:41:52 AM tester_project_F1 setup
+INFO: Program started
+Feb 02, 2018 9:41:55 AM LoginThread$3 run
+INFO: Software closed
+Feb 02, 2018 9:44:14 AM tester_project_F1 setup
+INFO: Program started
+Feb 02, 2018 9:44:16 AM LoginThread$3 run
+INFO: Software closed
+Feb 02, 2018 9:44:51 AM tester_project_F1 setup
+INFO: Program started
+Feb 02, 2018 9:46:16 AM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 02, 2018 9:47:16 AM tester_project_F1 setup
+INFO: Program started
+Feb 02, 2018 9:47:25 AM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 02, 2018 9:47:32 AM tester_project_F1 setup
+INFO: Program started
+Feb 02, 2018 9:47:36 AM LoginThread$3 run
+INFO: Software closed
+Feb 02, 2018 9:48:03 AM tester_project_F1 setup
+INFO: Program started
+Feb 02, 2018 9:48:15 AM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 02, 2018 9:50:07 AM tester_project_F1 setup
+INFO: Program started
+Feb 02, 2018 9:50:21 AM LoginThread logout
+INFO: 
+User DMH logged off
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 02, 2018 9:50:25 AM LoginThread$3 run
+INFO: Software closed
+Feb 02, 2018 9:53:30 AM tester_project_F1 setup
+INFO: Program started
+Feb 02, 2018 9:53:58 AM tester_project_F1 setup
+INFO: Program started
+Feb 02, 2018 9:54:51 AM tester_project_F1 setup
+INFO: Program started
+Feb 02, 2018 9:54:54 AM LoginThread$3 run
+INFO: Software closed
+Feb 02, 2018 9:55:38 AM tester_project_F1 setup
+INFO: Program started
+Feb 02, 2018 9:55:52 AM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 02, 2018 9:55:55 AM tester_project_F1 setup
+INFO: Program started
+Feb 02, 2018 9:55:57 AM LoginThread$3 run
+INFO: Software closed
+Feb 02, 2018 9:58:53 AM tester_project_F1 setup
+INFO: Program started
+Feb 02, 2018 9:58:59 AM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 02, 2018 9:59:14 AM tester_project_F1 setup
+INFO: Program started
+Feb 02, 2018 9:59:17 AM LoginThread$3 run
+INFO: Software closed
+Feb 02, 2018 9:59:35 AM tester_project_F1 setup
+INFO: Program started
+Feb 02, 2018 9:59:40 AM LoginThread$3 run
+INFO: Software closed

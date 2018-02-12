@@ -1,0 +1,198 @@
+Feb 12, 2018 12:44:17 PM tester_project_F1_2 setup
+INFO: Program started
+Feb 12, 2018 12:44:17 PM tester_project_F1_2 setupArduino
+WARNING: COM Port was not found!
+Feb 12, 2018 12:45:07 PM tester_project_F1_2 testProcess
+INFO: EAX-300 tested 	
+Feb 12, 2018 12:45:21 PM tester_project_F1_2$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 1
+	*devices failed: 0
+	*total devices tested: 1
+	*devices programmed: 0
+	*
+Feb 12, 2018 12:46:19 PM tester_project_F1_2 setup
+INFO: Program started
+Feb 12, 2018 12:46:25 PM LoginThread$3 run
+INFO: Software closed
+Feb 12, 2018 12:50:55 PM tester_project_F1_2 setup
+INFO: Program started
+Feb 12, 2018 12:51:18 PM tester_project_F1_2$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 12, 2018 12:51:34 PM tester_project_F1_2 setup
+INFO: Program started
+Feb 12, 2018 12:52:22 PM tester_project_F1_2$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 12, 2018 12:57:31 PM tester_project_F1_2 setup
+INFO: Program started
+Feb 12, 2018 12:58:03 PM tester_project_F1_2 testProcess
+INFO: EAX-300 tested 	
+Feb 12, 2018 12:58:26 PM tester_project_F1_2 testProcess
+INFO: V40 tested 	
+Feb 12, 2018 12:58:45 PM tester_project_F1_2 testProcess
+INFO: V40 tested 	
+Feb 12, 2018 12:59:13 PM tester_project_F1_2$4 run
+WARNING: Error programming EAX2500, Error communicating with Port
+Feb 12, 2018 1:00:35 PM tester_project_F1_2$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 3
+	*devices failed: 3
+	*total devices tested: 3
+	*devices programmed: 0
+	*
+Feb 12, 2018 1:02:03 PM tester_project_F1_2 setup
+INFO: Program started
+Feb 12, 2018 1:07:24 PM LoginThread$1 actionPerformed
+INFO: 
+User DMH auto-tester_project_F1_2.log off	
+Feb 12, 2018 1:07:24 PM LoginThread logout
+INFO: 
+User DMH logged off
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 12, 2018 1:07:31 PM LoginThread$3 run
+INFO: Software closed
+Feb 12, 2018 1:13:17 PM tester_project_F1_2 setup
+INFO: Program started
+Feb 12, 2018 1:13:57 PM tester_project_F1_2$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 12, 2018 1:14:13 PM tester_project_F1_2 setup
+INFO: Program started
+Feb 12, 2018 1:15:08 PM LoginThread$3 run
+INFO: Software closed
+Feb 12, 2018 1:17:03 PM tester_project_F1_2 setup
+INFO: Program started
+Feb 12, 2018 1:17:17 PM tester_project_F1_2$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 12, 2018 1:20:04 PM tester_project_F1_2 setup
+INFO: Program started
+Feb 12, 2018 1:22:05 PM tester_project_F1_2$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 12, 2018 1:22:09 PM tester_project_F1_2 setup
+INFO: Program started
+Feb 12, 2018 1:22:23 PM tester_project_F1_2$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 12, 2018 1:24:14 PM tester_project_F1_2 setup
+INFO: Program started
+Feb 12, 2018 1:24:46 PM tester_project_F1_2$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 12, 2018 1:25:18 PM tester_project_F1_2 setup
+INFO: Program started
+Feb 12, 2018 1:25:39 PM tester_project_F1_2 testProcess
+INFO: EAX-300 tested 	
+Feb 12, 2018 1:25:45 PM tester_project_F1_2$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 1
+	*devices failed: 0
+	*total devices tested: 1
+	*devices programmed: 0
+	*
+Feb 12, 2018 1:25:58 PM tester_project_F1_2 setup
+INFO: Program started
+Feb 12, 2018 1:26:15 PM tester_project_F1_2 testProcess
+INFO: EAX-300 tested 	
+Feb 12, 2018 1:26:24 PM tester_project_F1_2 testProcess
+INFO: EAX-300 tested 	
+Feb 12, 2018 1:26:33 PM tester_project_F1_2$4 run
+WARNING: Error programming EAX300, Error communicating with Port
+Feb 12, 2018 1:26:45 PM tester_project_F1_2 testProcess
+INFO: EAX-300 tested 	
+Feb 12, 2018 1:27:13 PM tester_project_F1_2$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 3
+	*devices failed: 1
+	*total devices tested: 3
+	*devices programmed: 0
+	*
+Feb 12, 2018 1:27:51 PM tester_project_F1_2 setup
+INFO: Program started
+Feb 12, 2018 1:27:59 PM tester_project_F1_2$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 12, 2018 1:28:37 PM tester_project_F1_2 setup
+INFO: Program started
+Feb 12, 2018 1:28:54 PM tester_project_F1_2$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 12, 2018 1:32:49 PM tester_project_F1_2 setup
+INFO: Program started
+Feb 12, 2018 1:33:08 PM tester_project_F1_2 testProcess
+INFO: EAX-300 tested 	
+Feb 12, 2018 1:38:20 PM LoginThread$1 actionPerformed
+INFO: 
+User DMH auto-tester_project_F1_2.log off	
+Feb 12, 2018 1:38:20 PM LoginThread logout
+INFO: 
+User DMH logged off
+	*devices passed: 1
+	*devices failed: 0
+	*total devices tested: 1
+	*devices programmed: 0
+	*
+Feb 12, 2018 1:38:40 PM tester_project_F1_2$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*

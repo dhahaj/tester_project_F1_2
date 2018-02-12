@@ -1,0 +1,724 @@
+Feb 7, 2018 9:47:44 AM tester_project_F1 setup
+INFO: Program started
+Feb 7, 2018 9:57:03 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11384(00002C78)
+Feb 7, 2018 9:57:35 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 10:17:25 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11385(00002C79)
+Feb 7, 2018 10:17:48 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 10:22:02 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11386(00002C7A)
+Feb 7, 2018 10:22:18 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 10:22:59 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11387(00002C7B)
+Feb 7, 2018 10:23:24 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 10:23:58 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11388(00002C7C)
+Feb 7, 2018 10:25:34 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11389(00002C7D)
+Feb 7, 2018 10:25:56 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 10:26:35 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11390(00002C7E)
+Feb 7, 2018 10:26:48 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 10:27:34 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11391(00002C7F)
+Feb 7, 2018 10:27:47 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 10:28:20 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11392(00002C80)
+Feb 7, 2018 10:29:11 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 10:29:52 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11393(00002C81)
+Feb 7, 2018 10:30:24 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 10:32:39 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11394(00002C82)
+Feb 7, 2018 10:32:53 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 10:33:23 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11395(00002C83)
+Feb 7, 2018 10:33:44 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 10:34:13 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11396(00002C84)
+Feb 7, 2018 10:34:29 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 10:35:01 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11397(00002C85)
+Feb 7, 2018 10:35:17 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 10:35:45 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11398(00002C86)
+Feb 7, 2018 10:36:00 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 10:36:31 AM tester_project_F1$4 run
+WARNING: Error programming V40xx00, Current Programming Task Failed
+Feb 7, 2018 10:36:39 AM tester_project_F1$4 run
+WARNING: Error programming V40xx00, Current Programming Task Failed
+Feb 7, 2018 10:37:29 AM tester_project_F1$4 run
+WARNING: Error programming V40xx00, Current Programming Task Failed
+Feb 7, 2018 10:40:09 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11399(00002C87)
+Feb 7, 2018 10:41:02 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 10:42:03 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11400(00002C88)
+Feb 7, 2018 10:42:25 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 10:42:57 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11401(00002C89)
+Feb 7, 2018 10:43:08 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 10:32:39 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11402(00002C8A)
+Feb 7, 2018 10:32:55 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 10:33:25 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11403(00002C8B)
+Feb 7, 2018 10:33:39 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 10:34:18 AM tester_project_F1$4 run
+WARNING: Error programming V40xx00, Current Programming Task Failed
+Feb 7, 2018 10:34:32 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11404(00002C8C)
+Feb 7, 2018 10:34:43 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 10:35:17 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11405(00002C8D)
+Feb 7, 2018 10:35:34 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 10:36:06 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11406(00002C8E)
+Feb 7, 2018 10:36:25 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 10:37:05 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11407(00002C8F)
+Feb 7, 2018 10:37:48 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11408(00002C90)
+Feb 7, 2018 10:37:59 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 10:38:28 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11409(00002C91)
+Feb 7, 2018 10:38:44 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 10:39:19 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11410(00002C92)
+Feb 7, 2018 10:39:30 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 10:40:03 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11411(00002C93)
+Feb 7, 2018 10:40:17 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 10:41:09 AM tester_project_F1$4 run
+WARNING: Error programming V40xx00, Current Programming Task Failed
+Feb 7, 2018 10:41:23 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11412(00002C94)
+Feb 7, 2018 10:41:40 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 10:42:10 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11413(00002C95)
+Feb 7, 2018 10:42:25 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 10:42:58 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11414(00002C96)
+Feb 7, 2018 10:43:10 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 10:43:41 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11415(00002C97)
+Feb 7, 2018 10:43:56 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 10:44:36 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11416(00002C98)
+Feb 7, 2018 10:44:47 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 10:45:16 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11417(00002C99)
+Feb 7, 2018 10:45:28 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 10:46:27 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11418(00002C9A)
+Feb 7, 2018 10:46:40 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 10:50:09 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 10:50:18 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11419(00002C9B)
+Feb 7, 2018 10:50:33 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 10:51:02 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11420(00002C9C)
+Feb 7, 2018 10:51:13 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11421(00002C9D)
+Feb 7, 2018 10:51:25 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 10:53:13 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11422(00002C9E)
+Feb 7, 2018 10:53:24 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 10:54:06 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11423(00002C9F)
+Feb 7, 2018 10:54:17 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 10:54:26 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11424(00002CA0)
+Feb 7, 2018 10:54:41 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 10:54:52 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11425(00002CA1)
+Feb 7, 2018 10:55:10 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 10:55:40 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11426(00002CA2)
+Feb 7, 2018 10:56:53 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 10:57:02 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11427(00002CA3)
+Feb 7, 2018 10:57:19 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 10:57:52 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11428(00002CA4)
+Feb 7, 2018 10:58:07 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 10:58:40 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11429(00002CA5)
+Feb 7, 2018 10:58:51 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 10:59:19 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11430(00002CA6)
+Feb 7, 2018 10:59:33 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 10:59:58 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11431(00002CA7)
+Feb 7, 2018 11:00:13 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:00:43 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11432(00002CA8)
+Feb 7, 2018 11:01:02 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:01:38 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11433(00002CA9)
+Feb 7, 2018 11:01:54 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:03:08 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11434(00002CAA)
+Feb 7, 2018 11:03:22 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:03:52 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11435(00002CAB)
+Feb 7, 2018 11:04:06 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:04:47 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11436(00002CAC)
+Feb 7, 2018 11:05:01 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:05:42 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11437(00002CAD)
+Feb 7, 2018 11:05:52 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:06:23 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11438(00002CAE)
+Feb 7, 2018 11:06:36 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:07:03 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11439(00002CAF)
+Feb 7, 2018 11:07:17 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:07:44 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11440(00002CB0)
+Feb 7, 2018 11:08:44 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:10:45 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11441(00002CB1)
+Feb 7, 2018 11:10:58 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11442(00002CB2)
+Feb 7, 2018 11:11:11 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:11:35 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11443(00002CB3)
+Feb 7, 2018 11:11:47 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:12:16 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11444(00002CB4)
+Feb 7, 2018 11:12:30 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:13:00 AM tester_project_F1$4 run
+WARNING: Error programming V40xx00, Current Programming Task Failed
+Feb 7, 2018 11:13:24 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11445(00002CB5)
+Feb 7, 2018 11:13:35 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:14:07 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11446(00002CB6)
+Feb 7, 2018 11:14:20 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:14:41 AM tester_project_F1$4 run
+WARNING: Error programming V40xx00, Current Programming Task Failed
+Feb 7, 2018 11:14:55 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11447(00002CB7)
+Feb 7, 2018 11:15:36 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:16:08 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11448(00002CB8)
+Feb 7, 2018 11:16:22 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:17:41 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11449(00002CB9)
+Feb 7, 2018 11:17:53 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:18:21 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11450(00002CBA)
+Feb 7, 2018 11:18:35 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:19:21 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11451(00002CBB)
+Feb 7, 2018 11:19:34 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:20:01 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11452(00002CBC)
+Feb 7, 2018 11:20:12 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:20:37 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11453(00002CBD)
+Feb 7, 2018 11:20:48 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:21:36 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11454(00002CBE)
+Feb 7, 2018 11:21:50 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:22:23 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11455(00002CBF)
+Feb 7, 2018 11:22:37 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:23:02 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11456(00002CC0)
+Feb 7, 2018 11:23:16 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:23:48 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11457(00002CC1)
+Feb 7, 2018 11:24:00 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:24:33 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11458(00002CC2)
+Feb 7, 2018 11:24:40 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11459(00002CC3)
+Feb 7, 2018 11:24:53 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:25:20 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11460(00002CC4)
+Feb 7, 2018 11:25:34 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:26:08 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11461(00002CC5)
+Feb 7, 2018 11:26:28 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:26:57 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11462(00002CC6)
+Feb 7, 2018 11:27:08 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:27:49 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11463(00002CC7)
+Feb 7, 2018 11:28:14 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11464(00002CC8)
+Feb 7, 2018 11:28:29 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11465(00002CC9)
+Feb 7, 2018 11:28:53 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:29:24 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11466(00002CCA)
+Feb 7, 2018 11:29:46 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:30:34 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11467(00002CCB)
+Feb 7, 2018 11:30:46 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11468(00002CCC)
+Feb 7, 2018 11:31:08 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11469(00002CCD)
+Feb 7, 2018 11:31:20 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:31:46 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11470(00002CCE)
+Feb 7, 2018 11:32:00 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:20:53 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11471(00002CCF)
+Feb 7, 2018 11:21:09 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:23:01 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11472(00002CD0)
+Feb 7, 2018 11:23:15 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:23:43 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11473(00002CD1)
+Feb 7, 2018 11:23:57 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:24:22 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11474(00002CD2)
+Feb 7, 2018 11:24:35 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:24:59 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11475(00002CD3)
+Feb 7, 2018 11:25:16 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:25:45 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11476(00002CD4)
+Feb 7, 2018 11:26:03 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:26:19 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:26:48 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11477(00002CD5)
+Feb 7, 2018 11:27:04 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:27:35 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11478(00002CD6)
+Feb 7, 2018 11:27:51 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:28:26 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11479(00002CD7)
+Feb 7, 2018 11:28:37 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:29:04 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11480(00002CD8)
+Feb 7, 2018 11:29:16 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:29:46 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11481(00002CD9)
+Feb 7, 2018 11:29:59 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:30:30 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11482(00002CDA)
+Feb 7, 2018 11:30:44 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:31:26 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11483(00002CDB)
+Feb 7, 2018 11:31:45 AM tester_project_F1$4 run
+WARNING: Error programming V40xx00, 
+Feb 7, 2018 11:31:53 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11484(00002CDC)
+Feb 7, 2018 11:32:08 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:32:45 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11485(00002CDD)
+Feb 7, 2018 11:32:59 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:33:32 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11486(00002CDE)
+Feb 7, 2018 11:34:04 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:35:26 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11487(00002CDF)
+Feb 7, 2018 11:35:39 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:36:08 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11488(00002CE0)
+Feb 7, 2018 11:36:21 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:36:56 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11489(00002CE1)
+Feb 7, 2018 11:37:08 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:37:53 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11490(00002CE2)
+Feb 7, 2018 11:38:06 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:38:31 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11491(00002CE3)
+Feb 7, 2018 11:38:47 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:39:26 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11492(00002CE4)
+Feb 7, 2018 11:39:42 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:40:17 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11493(00002CE5)
+Feb 7, 2018 11:40:56 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:41:29 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11494(00002CE6)
+Feb 7, 2018 11:41:42 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:42:40 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11495(00002CE7)
+Feb 7, 2018 11:42:50 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:43:03 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:43:37 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11496(00002CE8)
+Feb 7, 2018 11:43:50 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:44:25 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11497(00002CE9)
+Feb 7, 2018 11:44:35 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:49:43 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11498(00002CEA)
+Feb 7, 2018 11:49:59 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:50:28 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11499(00002CEB)
+Feb 7, 2018 11:51:10 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:51:39 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11500(00002CEC)
+Feb 7, 2018 11:51:51 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:52:17 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11501(00002CED)
+Feb 7, 2018 11:52:34 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:53:05 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11502(00002CEE)
+Feb 7, 2018 11:53:18 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:54:02 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11503(00002CEF)
+Feb 7, 2018 11:54:15 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:55:28 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11504(00002CF0)
+Feb 7, 2018 11:55:45 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:56:10 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11505(00002CF1)
+Feb 7, 2018 11:56:25 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:56:53 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11506(00002CF2)
+Feb 7, 2018 11:57:23 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:57:54 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11507(00002CF3)
+Feb 7, 2018 11:58:58 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11508(00002CF4)
+Feb 7, 2018 11:59:15 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11509(00002CF5)
+Feb 7, 2018 11:59:30 AM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 11:59:55 AM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11510(00002CF6)
+Feb 7, 2018 12:00:31 PM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 12:00:57 PM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11511(00002CF7)
+Feb 7, 2018 12:01:12 PM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 12:01:39 PM tester_project_F1$4 run
+INFO: Programming initiated by CKP -- V40xx00 Serial#:11512(00002CF8)
+Feb 7, 2018 12:02:00 PM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 7, 2018 12:02:27 PM tester_project_F1$3 run
+INFO: 
+User CKP closed software
+	*devices passed: 120
+	*devices failed: 0
+	*total devices tested: 120
+	*devices programmed: 129
+	*
+Feb 07, 2018 4:17:45 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 4:18:13 PM tester_project_F1 testProcess
+INFO: EAX-300/500 tested 	
+Feb 07, 2018 4:18:29 PM tester_project_F1 testProcess
+INFO: EAX-300/500 tested 	
+Feb 07, 2018 4:18:35 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 2
+	*devices failed: 0
+	*total devices tested: 2
+	*devices programmed: 0
+	*
+Feb 07, 2018 4:19:27 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 4:19:50 PM tester_project_F1 testProcess
+INFO: EAX-300/500 tested 	
+Feb 07, 2018 4:19:52 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 1
+	*devices failed: 0
+	*total devices tested: 1
+	*devices programmed: 0
+	*
+Feb 07, 2018 4:23:04 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 4:23:34 PM tester_project_F1 testProcess
+INFO: EAX-300 tested 	
+Feb 07, 2018 4:23:37 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 1
+	*devices failed: 0
+	*total devices tested: 1
+	*devices programmed: 0
+	*
+Feb 07, 2018 4:24:00 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 4:24:20 PM tester_project_F1 testProcess
+INFO: EAX-300 tested 	
+Feb 07, 2018 4:24:24 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 1
+	*devices failed: 0
+	*total devices tested: 1
+	*devices programmed: 0
+	*
+Feb 07, 2018 4:24:49 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 4:25:11 PM tester_project_F1 testProcess
+INFO: EAX-500 tested 	
+Feb 07, 2018 4:25:14 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 1
+	*devices failed: 0
+	*total devices tested: 1
+	*devices programmed: 0
+	*
+Feb 07, 2018 4:26:20 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 4:26:40 PM tester_project_F1 testProcess
+INFO: EAX-500 tested 	
+Feb 07, 2018 4:26:44 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 1
+	*devices failed: 0
+	*total devices tested: 1
+	*devices programmed: 0
+	*
+Feb 07, 2018 4:33:34 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 4:33:55 PM tester_project_F1 testProcess
+INFO: EAX-300 tested 	
+Feb 07, 2018 4:33:58 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 1
+	*devices failed: 0
+	*total devices tested: 1
+	*devices programmed: 0
+	*
+Feb 07, 2018 4:37:29 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 4:38:13 PM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 07, 2018 4:38:20 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 1
+	*devices failed: 0
+	*total devices tested: 1
+	*devices programmed: 0
+	*
+Feb 07, 2018 4:39:34 PM tester_project_F1_2 setup
+INFO: Program started
+Feb 07, 2018 4:39:39 PM LoginThread$3 run
+INFO: Software closed
+Feb 07, 2018 4:41:34 PM tester_project_F1_2 setup
+INFO: Program started
+Feb 07, 2018 4:41:47 PM LoginThread$1 actionPerformed
+INFO: 
+User DMH auto-tester_project_F1_2.log off	
+Feb 07, 2018 4:41:47 PM LoginThread logout
+INFO: 
+User DMH logged off
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 07, 2018 4:41:52 PM tester_project_F1_2$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 07, 2018 4:43:13 PM tester_project_F1_2 setup
+INFO: Program started
+Feb 07, 2018 4:43:30 PM LoginThread$1 actionPerformed
+INFO: 
+User DMH auto-tester_project_F1_2.log off	
+Feb 07, 2018 4:43:30 PM LoginThread logout
+INFO: 
+User DMH logged off
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 07, 2018 4:43:32 PM LoginThread$3 run
+INFO: Software closed
+Feb 07, 2018 4:45:14 PM tester_project_F1_2 setup
+INFO: Program started
+Feb 07, 2018 4:45:26 PM LoginThread$1 actionPerformed
+INFO: 
+User DMH auto-tester_project_F1_2.log off	
+Feb 07, 2018 4:45:26 PM LoginThread logout
+INFO: 
+User DMH logged off
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 07, 2018 4:45:30 PM LoginThread$3 run
+INFO: Software closed
+Feb 07, 2018 4:46:12 PM tester_project_F1_2 setup
+INFO: Program started
+Feb 07, 2018 4:48:42 PM LoginThread$1 actionPerformed
+INFO: 
+User DMH auto-tester_project_F1_2.log off	
+Feb 07, 2018 4:48:42 PM LoginThread logout
+INFO: 
+User DMH logged off
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 07, 2018 4:50:00 PM tester_project_F1_2$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 07, 2018 4:50:03 PM tester_project_F1_2 setup
+INFO: Program started
+Feb 07, 2018 4:50:33 PM tester_project_F1_2 testProcess
+INFO: EAX-300 tested 	
+Feb 07, 2018 4:50:45 PM tester_project_F1_2 testProcess
+INFO: EAX-300 tested 	
+Feb 07, 2018 4:50:49 PM tester_project_F1_2$4 run
+WARNING: Error programming EAX300, Error communicating with Port
+Feb 07, 2018 4:50:52 PM tester_project_F1_2$4 run
+WARNING: Error programming EAX300, Error communicating with Port
+Feb 07, 2018 4:50:55 PM tester_project_F1_2$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 2
+	*devices failed: 0
+	*total devices tested: 2
+	*devices programmed: 0
+	*
+Feb 07, 2018 4:52:54 PM tester_project_F1_2 setup
+INFO: Program started
+Feb 07, 2018 4:52:59 PM LoginThread$3 run
+INFO: Software closed
+Feb 07, 2018 4:54:15 PM tester_project_F1_2 setup
+INFO: Program started
+Feb 07, 2018 4:54:21 PM LoginThread$3 run
+INFO: Software closed

@@ -1,0 +1,482 @@
+Feb 07, 2018 1:48:20 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 1:48:49 PM tester_project_F1 testProcess
+INFO: EAX-300/500 tested 	
+Feb 07, 2018 1:48:52 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 1
+	*devices failed: 0
+	*total devices tested: 1
+	*devices programmed: 0
+	*
+Feb 07, 2018 1:49:32 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 1:50:04 PM tester_project_F1 testProcess
+INFO: EAX-300/500 tested 	
+Feb 07, 2018 1:50:10 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 1
+	*devices failed: 0
+	*total devices tested: 1
+	*devices programmed: 0
+	*
+Feb 07, 2018 1:50:45 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 1:50:52 PM LoginThread$3 run
+INFO: Software closed
+Feb 07, 2018 1:51:18 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 1:51:36 PM tester_project_F1$4 run
+WARNING: Error programming EAX503, Error communicating with Port
+Feb 07, 2018 1:51:52 PM tester_project_F1 testProcess
+INFO: EAX-300/500 tested 	
+Feb 07, 2018 1:54:54 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 1:55:13 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 07, 2018 1:55:18 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 1:55:31 PM LoginThread$3 run
+INFO: Software closed
+Feb 07, 2018 1:57:07 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 1:57:22 PM LoginThread logout
+INFO: 
+User DMH logged off
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 07, 2018 1:57:26 PM LoginThread$3 run
+INFO: Software closed
+Feb 07, 2018 1:57:28 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 1:57:34 PM LoginThread$3 run
+INFO: Software closed
+Feb 07, 2018 1:58:53 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 1:59:08 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 07, 2018 1:59:11 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 1:59:17 PM LoginThread$3 run
+INFO: Software closed
+Feb 07, 2018 2:00:26 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 2:00:38 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 07, 2018 2:00:40 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 2:00:50 PM LoginThread logout
+INFO: 
+User DMH logged off
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 07, 2018 2:00:57 PM tester_project_F1$3 run
+INFO: 
+User TCM closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 07, 2018 2:00:59 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 2:01:33 PM LoginThread logout
+INFO: 
+User TCM logged off
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 07, 2018 2:07:17 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 2:07:54 PM tester_project_F1 testProcess
+INFO: EAX-300/500 tested 	
+Feb 07, 2018 2:08:05 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 1
+	*devices failed: 0
+	*total devices tested: 1
+	*devices programmed: 0
+	*
+Feb 07, 2018 2:08:27 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 2:08:41 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 07, 2018 2:10:34 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 2:10:45 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 07, 2018 2:12:02 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 2:14:54 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 2:15:51 PM tester_project_F1$4 run
+WARNING: Error programming EAX300, Error communicating with Port
+Feb 07, 2018 2:16:48 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 07, 2018 2:18:38 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 2:18:43 PM LoginThread$3 run
+INFO: Software closed
+Feb 07, 2018 2:21:50 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 2:22:08 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 07, 2018 2:22:27 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 2:28:03 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 07, 2018 2:28:06 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 2:28:17 PM tester_project_F1$4 run
+WARNING: Error programming EAX2500, Error communicating with Port
+Feb 07, 2018 2:30:13 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 07, 2018 2:30:26 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 2:31:03 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 2:32:17 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 2:33:37 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 07, 2018 2:34:09 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 2:36:33 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 2:39:47 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 2:41:11 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 2:41:53 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 07, 2018 2:42:40 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 2:42:59 PM tester_project_F1 testProcess
+INFO: EAX-300/500 tested 	
+Feb 07, 2018 2:44:26 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 2:44:50 PM tester_project_F1 testProcess
+INFO: EAX-300/500 tested 	
+Feb 07, 2018 2:44:55 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 1
+	*devices failed: 0
+	*total devices tested: 1
+	*devices programmed: 0
+	*
+Feb 07, 2018 2:45:49 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 2:46:34 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 07, 2018 2:47:48 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 2:48:13 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 07, 2018 2:49:41 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 2:50:03 PM tester_project_F1 testProcess
+INFO: EAX-300/500 tested 	
+Feb 07, 2018 2:50:47 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 2:51:17 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 07, 2018 2:51:46 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 2:52:12 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 07, 2018 2:52:20 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 2:52:46 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 07, 2018 2:54:20 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 2:54:40 PM tester_project_F1 testProcess
+INFO: EAX-300/500 tested 	
+Feb 07, 2018 2:57:29 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 2:57:45 PM tester_project_F1 testProcess
+INFO: EAX-300/500 tested 	
+Feb 07, 2018 2:58:19 PM tester_project_F1 testProcess
+INFO: EAX-300/500 tested 	
+Feb 07, 2018 2:59:15 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 2:59:45 PM tester_project_F1 testProcess
+INFO: EAX-300/500 tested 	
+Feb 07, 2018 3:00:58 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 3:01:23 PM tester_project_F1 testProcess
+INFO: EAX-300/500 tested 	
+Feb 07, 2018 3:01:40 PM tester_project_F1 testProcess
+INFO: EAX-300/500 tested 	
+Feb 07, 2018 3:02:11 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 2
+	*devices failed: 1
+	*total devices tested: 2
+	*devices programmed: 0
+	*
+Feb 07, 2018 3:04:04 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 3:04:48 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 3:05:18 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 3:05:48 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 3:06:25 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 3:06:50 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 07, 2018 3:07:02 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 3:07:15 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 07, 2018 3:08:08 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 3:08:25 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 07, 2018 3:08:43 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 3:09:03 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 3:09:13 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 07, 2018 3:09:30 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 3:09:42 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 07, 2018 3:09:53 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 3:10:12 PM tester_project_F1 testProcess
+INFO: EAX-300/500 tested 	
+Feb 07, 2018 3:10:29 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 1
+	*devices failed: 0
+	*total devices tested: 1
+	*devices programmed: 0
+	*
+Feb 07, 2018 3:12:05 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 3:12:47 PM tester_project_F1 testProcess
+INFO: V40 tested 	
+Feb 07, 2018 3:13:08 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 1
+	*devices failed: 0
+	*total devices tested: 1
+	*devices programmed: 0
+	*
+Feb 07, 2018 3:13:51 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 3:14:15 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 07, 2018 3:14:17 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 3:14:40 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 07, 2018 3:19:17 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 3:19:25 PM LoginThread logout
+INFO: 
+User DMH logged off
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 07, 2018 3:19:37 PM LoginThread logout
+INFO: 
+User DMH logged off
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Feb 07, 2018 3:19:39 PM LoginThread$3 run
+INFO: Software closed
+Feb 07, 2018 3:25:11 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 3:25:33 PM tester_project_F1 testProcess
+INFO: EAX-300/500 tested 	
+Feb 07, 2018 3:25:39 PM LoginThread logout
+INFO: 
+User DMH logged off
+	*devices passed: 1
+	*devices failed: 0
+	*total devices tested: 1
+	*devices programmed: 0
+	*
+Feb 07, 2018 3:25:53 PM LoginThread$3 run
+INFO: Software closed
+Feb 07, 2018 3:26:10 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 3:26:31 PM tester_project_F1 testProcess
+INFO: EAX-300/500 tested 	
+Feb 07, 2018 3:26:34 PM LoginThread logout
+INFO: 
+User DMH logged off
+	*devices passed: 1
+	*devices failed: 0
+	*total devices tested: 1
+	*devices programmed: 0
+	*
+Feb 07, 2018 3:26:37 PM LoginThread$3 run
+INFO: Software closed
+Feb 07, 2018 3:27:00 PM tester_project_F1 setup
+INFO: Program started
+Feb 07, 2018 3:27:05 PM LoginThread$3 run
+INFO: Software closed
